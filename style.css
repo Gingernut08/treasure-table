@@ -129,7 +129,7 @@ body{
     display: none;
 }
 .select{
-    appearance: none;
+    -webkit-appearance: none;
     width: 35px;
     height: 35px;
     border-radius: 80px;
@@ -137,6 +137,7 @@ body{
     box-shadow: 2px 2px 0px #2d1902;
     cursor: pointer;
     background: #ffffff;
+    touch-action: manipulation;
 }
 .select:checked {
     background-color: #c99a4a;

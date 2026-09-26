@@ -156,5 +156,8 @@ body{
     #wave{
         transform: translateY(-95%);        
     }
+    .item{
+        flex: 0 0 80vw;
+    }
 }
 

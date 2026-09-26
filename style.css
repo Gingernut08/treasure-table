@@ -106,12 +106,16 @@ body{
     scroll-snap-type: x mandatory;
 }
 .item{
+    background-image: url("New2I3.png");
+    background-size: cover;
+    background-position: center;
+    border: 5px solid #3b210f;
+    box-shadow: 6px 6px 0 #2d1902,inset 000 3px #a66b38;
     flex: 0 0 35vw;
     max-width: 450px;
     scroll-snap-align: center;
     box-sizing: border-box;
     padding: 25px;
-    border: 3px dashed #2d1902;
 
 }
 .model{
@@ -141,8 +145,16 @@ body{
     inset 0 0 0 6px #a87532,
     2px 2px 0px #2d1902;
 }
+.select:hover{
+    background-color: #c99a4a;
+    border: 3px solid #7a5425;
+    box-shadow: inset 0 0 0 3px #e0bd70,
+    inset 0 0 0 6px #a87532,
+    2px 2px 0px #2d1902;
+}
 @media(max-width:600px){
     #wave{
         transform: translateY(-95%);        
     }
 }
+

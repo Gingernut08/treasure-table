@@ -166,3 +166,7 @@ body{
     }
 }
 
+#total{
+    position: relative;
+    z-index: 100;
+}

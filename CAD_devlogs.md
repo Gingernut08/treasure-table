@@ -1,4 +1,4 @@
-\# Devlog 1 — Dowel Stand (\[1](https://lapse.hackclub.com/timelapse/1ThQTO9-Yl7S), \[2](https://lapse.hackclub.com/timelapse/18N\_vKCRP\_jl)) - Oliver
+# Devlog 1 — Dowel Stand ([1.1](https://lapse.hackclub.com/timelapse/1ThQTO9-Yl7S), [1.2](https://lapse.hackclub.com/timelapse/18N\_vKCRP\_jl)) - Oliver
 
 
 
@@ -10,7 +10,7 @@ I made the design parametric by adding user parameters for the shelf height, dep
 
 
 
-\# Devlog 2 — Parametric Shelf Top (\[1](https://lapse.hackclub.com/timelapse/t9f1vZIJKa78)) - Oliver
+# Devlog 2 — Parametric Shelf Top ([2.1](https://lapse.hackclub.com/timelapse/t9f1vZIJKa78)) - Oliver
 
 
 
@@ -22,7 +22,7 @@ This continued the approach used in the earlier designs, making the components e
 
 
 
-\# Devlog 3 — Shelf Cover Edits (\[1](https://lapse.hackclub.com/timelapse/aMstxW1bEyRY)) - Oliver
+# Devlog 3 — Shelf Cover Edits ([3.1](https://lapse.hackclub.com/timelapse/aMstxW1bEyRY)) - Oliver
 
 
 
@@ -34,7 +34,7 @@ This made the different parts fit together more consistently and improved the ov
 
 
 
-\# Devlog 4 — Modular Dowel Shelf Components (\[1](https://lapse.hackclub.com/timelapse/jWxCuUXiktl2)) - Oliver
+# Devlog 4 — Modular Dowel Shelf Components ([4.1](https://lapse.hackclub.com/timelapse/jWxCuUXiktl2)) - Oliver
 
 
 
@@ -46,7 +46,7 @@ The components were designed to work with the existing dowel-based system, helpi
 
 
 
-\# Devlog 5 — Laptop Stand and Fit Test (\[1](https://lapse.hackclub.com/timelapse/HjkE-fCvulHD)) - Oliver
+# Devlog 5 — Laptop Stand and Fit Test ([5.1](https://lapse.hackclub.com/timelapse/HjkE-fCvulHD)) - Oliver
 
 
 
@@ -58,7 +58,7 @@ I also created a test assembly using the components designed so far. This allowe
 
 
 
-\# Devlog 6 — Headphone Amp Mount (\[1](https://lapse.hackclub.com/timelapse/J3O9NKPpunH5)) - Oliver
+# Devlog 6 — Headphone Amp Mount ([6.1](https://lapse.hackclub.com/timelapse/J3O9NKPpunH5)) - Oliver
 
 
 

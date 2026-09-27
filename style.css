@@ -260,4 +260,20 @@ button{
     text-shadow: 1px 1px 0 #ffe98a;
     cursor: pointer;
 }
+#add:hover{
+    background: linear-gradient(
+        180deg,
+        #fffbd0 0%,
+        #fff080 20%,
+        #ffd84a 45%,
+        #e7ac20 70%,
+        #b9790a 100%
+    );
+}
+#add:active{
+    transform: translate(3px,3px);
+    box-shadow: inset 0 2px 0 #fffbd0
+    ,inset 0 -2px 0 #7a4a00;
+}
+
 

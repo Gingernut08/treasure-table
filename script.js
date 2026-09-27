@@ -20,13 +20,20 @@ but.addEventListener("click",function(){
     let count = 0;
     lis.innerHTML="";
     sel.forEach(function(sels){
-        let p=document.createElement("p");
-        p.textContent="component"+(count+1)+"-"+sels.dataset.weight+"g";
-        lis.appendChild(p);
+
         if(sels.checked){
+            
+            let p=document.createElement("p");
+            p.textContent="component"+(count+1)+"-"+sels.dataset.weight+"g";
+            lis.appendChild(p);
             num+=Number(sels.dataset.weight);
+            count++;
         }
     });
+    nco.textContent=count+"components";
     tot.textContent="total:"+num+"g";
+    scr.style.display="block";
 });
-
+less.addEventListener("click",function(){
+    scr.style.display="none";
+})

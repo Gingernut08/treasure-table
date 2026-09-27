@@ -170,3 +170,70 @@ button{
     position: relative;
     z-index: 100;
 }
+#scr{
+    display: none;
+    position: relative;
+    z-index: 10;
+    width: 800px;
+    max-width: 90vw;
+    aspect-ratio: 3/1;
+    margin: 60px auto;
+    background-image: url(scroll.png);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    padding: 70px 100px;
+    color: #2d1902;
+    text-align: center;
+
+}
+#list p{
+    margin: 0;
+    padding: 5px 0;
+    font-size: 25px;
+    line-height: 1;
+    border-bottom: 2px dashed #8a602f;
+}
+#add{
+    font-family: "Jacquard 24", system-ui;
+    font-size: 20px;
+    padding: 15px 40px;
+    color: #3a2105;
+    background: linear-gradient(
+        180deg,
+        #fff0a3 0%,
+        #e3b84b 25%,
+        #b98220 70%,
+        #8a5b16 100%
+    );
+    border: 4px solid #70481f;
+    border-radius: 5px;
+    box-shadow: inset 0 3px 0 #fff5c2,
+    inset 0 -4px 0 #6b4512,
+    6px 6px 0 #2d1902;
+    cursor: pointer;
+}
+#add {
+    font-family: "Jacquard 24", system-ui;
+    font-size: 20px;
+    padding: 7px 28px;
+    color: #4a2b00;
+    background: linear-gradient(
+        180deg,
+        #fff8b0 0%,
+        #ffe66b 15%,
+        #f5c542 40%,
+        #d99b16 65%,
+        #a86d08 85%,
+        #704300 100%
+    );
+    border: 3px solid #8a5a0a;
+    border-radius: 5px;
+    box-shadow:
+        inset 0 2px 0 #fffbd0,
+        inset 0 -3px 0 #7a4a00,
+        3px 3px 0 #2d1902;
+    text-shadow: 1px 1px 0 #ffe98a;
+    cursor: pointer;
+}

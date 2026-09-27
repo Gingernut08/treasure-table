@@ -166,7 +166,66 @@ body{
     }
 }
 
-#total{
+button{
     position: relative;
     z-index: 100;
+}
+#scr {
+    width: 70%;
+    max-width: 600px;
+    margin: 50px auto;
+
+    padding: 50px 60px;
+
+    background: #d6b878;
+
+    border: 8px solid #8a602f;
+
+    box-shadow:
+        6px 6px 0 #2d1902,
+        inset 0 0 20px #8a602f;
+
+    color: #2d1902;
+
+    text-align: center;
+
+    box-sizing: border-box;
+}
+
+#scr h4 {
+    font-size: 40px;
+    font-weight: 100;
+    margin: 0 0 30px;
+}
+
+#list {
+    text-align: left;
+}
+
+#list p {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 10px 0;
+
+    margin: 0;
+
+    border-bottom: 2px dashed #8a602f;
+}
+
+#ncomp {
+    margin-top: 30px;
+    text-align: right;
+}
+
+#total {
+    font-size: 25px;
+    text-align: right;
+    margin: 10px 0 0;
+}
+#add,
+#less,
+#scr {
+    position: relative;
+    z-index: 3;
 }
